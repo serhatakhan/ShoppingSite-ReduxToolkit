@@ -16,4 +16,5 @@ Bu proje, React ile geliştirilmiş bir e-ticaret uygulamasıdır. **Redux Toolk
 
 ## Ekran Gifi
 
+![kayt1-ezgif com-video-to-gif-converter](https://github.com/serhatakhan/ShoppingSite-ReduxToolkit/assets/147662915/b1ac8c13-1114-4315-a33d-636a420903b3)
 

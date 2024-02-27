@@ -1,8 +1,19 @@
-# React + Vite
+# Shoppie - Shopping Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, React ile geliştirilmiş bir e-ticaret uygulamasıdır. **Redux Toolkit** kullanılarak yönetilen birçok özelliği içermektedir. Redux Toolkit kullanımı, uygulamanın global durumunu etkin ve verimli bir şekilde yönetmemizi sağlar. Özellikle ürünlerin yönetimi, alışveriş sepeti, kategori ve filtreleme gibi işlevler, Redux Toolkit kullanılarak sağlanmıştır.
 
-Currently, two official plugins are available:
+## Temel Özellikler:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+``Ürün Listeleme ve Detayları:`` FakeStoreAPI kullanılarak ürünlerin listelenmesi sağlanmıştır. Ayrıca her bir ürün için detay sayfası bulunmaktadır.
+
+``Kategori Filtreleme:`` Kullanıcıların ürünleri kategori bazında filtreleyebilmesi için kategori seçenekleri sunulmuştur. Kategoriye göre ürünler listelenebilmektedir.
+
+``Ürün Sıralama:`` Ürünlerin fiyatına göre artan veya azalan şekilde sıralanabilmesi mümkündür. Kullanıcılar istedikleri sıralama seçeneğini belirleyebilirler.
+
+``Alışveriş Sepeti Yönetimi:`` Kullanıcılar sepete ürün ekleyebilir, çıkarabilir veya sepetteki ürünlerin toplam fiyatını görebilirler. Ayrıca sepet durumu Redux üzerinden yönetilerek sayfa yenilemelerinde verilerin korunması sağlanmıştır.
+
+* Bu proje, modern web geliştirme tekniklerinin kullanıldığı ve Redux Toolkit gibi etkili araçların tercih edildiği bir örnek uygulamadır.
+
+## Ekran Gifi
+
+
